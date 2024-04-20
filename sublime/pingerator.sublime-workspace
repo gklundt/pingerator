@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projects/github.com/MicrosoftDocs/query-docs/query-languages/dax/keepfilters-function-dax.md",
+		"/C/Projects/github.com/MicrosoftDocs/sql-docs-live/docs/relational-databases/event-classes/audit-server-operation-event-class.md",
+		"/C/Projects/github.com/MicrosoftDocs/sublime/microsoft-docs.sublime-project",
+		"/C/Projects/github.com/MicrosoftDocs/sql-docs-live/docs/relational-databases/system-functions/getpathlocator-transact-sql.md",
+		"/C/Projects/firstlight.bitbucket.org/fsp/gk-journal/random/shrink wsl vhdx",
+		"/C/Projects/firstlight.bitbucket.org/fsp/gk-journal/random/Sprint Report",
+		"/C/Projects/firstlight.bitbucket.org/fsp/gk-journal/random/Monday, March 18, 2024 - Sunday, March 24, 2024",
+		"/C/Projects/firstlight.bitbucket.org/fsp/gk-journal/random/Monday, March 11, 2024 - Sunday, March 17, 2024",
+		"/C/Projects/firstlight.bitbucket.org/fsp/gk-journal/random/Monday, March 4, 2024 - Sunday, March 10, 2024",
+		"/C/Projects/firstlight.bitbucket.org/fsp/gk-journal/random/Shrink a git repo",
+		"/C/Projects/firstlight.bitbucket.org/fsp/gk-journal/random/dg_notes",
+		"/C/Projects/firstlight.bitbucket.org/fsp/gk-journal/expense/amazon-113-5506541-3568268.pdf",
+		"/C/Projects/firstlight.bitbucket.org/fsp/gk-journal/scratch/cam_info",
+		"/C/Projects/firstlight.bitbucket.org/fsp/gk-journal/status_reports/20240225_sprint_status.txt",
+		"/C/Projects/firstlight.bitbucket.org/fsp/gk-journal/sublime/gk-journal.sublime-project",
+		"/C/Projects/firstlight.bitbucket.org/fsp/gk-journal/scratch/20240223.txt",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/sql/dbo_elt.sql",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/context/configure-db.sh",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/context/scripts/create_tables.sql",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/PowerBI/hr-dashboard/hr-dashboard.Dataset/model.bim",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/PowerBI/hr-dashboard/hr-dashboard.Dataset/model - Copy.bim",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/README.md",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/context/generated/dbo_elt.sql",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/context/scripts/workHistory.sql",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/context/scripts/worker.sql",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/context/scripts/jobRequisitions.sql",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/context/scripts/events.sql",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/context/scripts/gens.sql",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/context/scripts/cfsOrgChart.sql",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/build.sh",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/build.ps1",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/context/setup.sql",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/container/context/scripts/cfsAllOrgChart.sql",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/de-analysis/parse-bim.sh",
+		"/C/Projects/firstlight.bitbucket.org/cfs0031/cfs0031-hr-dashboard/.gitignore",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/container/build.sh",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/README.md",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/.gitignore",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/PowerBI/legacy/data.csv",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/PowerBI/legacy/PowerBIData/CAM_ASSIGNMENTS.csv",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/container/context/test-data/vd_AccountPL_S.csv",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/container/context/test-data/vd_AccountBS_S.csv",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/container/context/test-data/vd_AccountCash.csv",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/container/context/test-data/vd_Account.csv",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/container/context/test-data/AccountNamesConsolidated.csv",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/sublime/cam0037-pl-report.sublime-project",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/container/context/configure-db.sh",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/container/context/entrypoint.sh",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/de-analysis/parse-bim.sh",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/container/build.ps1",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/container/context/setup.sql",
+		"/C/Projects/firstlight.bitbucket.org/cam0037/cam0037-pl-report/container/context/scripts/create_tables.sql",
+		"/C/Projects/firstlight.bitbucket.org/ios0029/ios0029-los-report/los-summary/INEOS LOS Summary.Dataset/.pbi/localSettings.json",
+		"/C/Projects/firstlight.bitbucket.org/dec/get-pbi-report-images/apps/pbi-api-client/pbi-image-extractor/pbi_image_extractor_config.yaml",
+		"/C/Users/gklun/Downloads/pbi_image_extractor_config.yaml"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			"C:\\Projects\\github.com\\MicrosoftDocs\\PowerShell-Docs",
+			"C:\\Projects\\github.com\\MicrosoftDocs\\query-docs\\query-languages",
+			"C:\\Projects\\github.com\\MicrosoftDocs\\query-docs",
+			"C:\\Projects\\github.com\\MicrosoftDocs\\sql-docs-live\\docs",
+			"<project filters>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"environment",
+			"printenv",
+			"KEEPFILTERS",
+			"classification.*level",
+			"gdpr",
+			"audit",
+			"---",
+			"title :",
+			"ROW_NUMBER\\(",
+			"backup database",
+			"shrink",
+			"git",
+			"\\[",
+			"workerStatusDate",
+			"Source \\= Sql\\.Database",
+			"ADP_Stg",
+			"dw\\.corp\\.cfsbrands\\.com\\\\\\\\prod",
+			"wfn\\.",
+			"ADP_Stg",
+			"idea",
+			"C:\\\\Projects\\\\firstlight.bitbucket.org\\\\cam0037",
+			"cam0037",
+			"(https.*ReportSection)(.*)(\\?.*)($)",
+			"(<button.*.class=\"itemName\">)(.*)(</span></span></button>)($)",
+			"(<button.*.class=\"itemName\")(.*)(</button>)($)",
+			"</button>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n\\[",
+			"firstlight",
+			"localhost",
+			"dbo\\.",
+			"firstlight",
+			"$2\\t$4",
+			"$2$4",
+			"</button>\\n"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pingerator.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Projects\\firstlight.bitbucket.org\\ios0029\\ios0029-los-report\\sublime\\ios0029-los-report.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 303.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 460.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
